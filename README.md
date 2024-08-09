@@ -10,7 +10,7 @@
 - Jake Xiao
 
 ### Github Repo
-<(https://github.com/haorany999/Intelligent-Tagging-and-Recommendations-for-StackOverflow)>
+(https://github.com/haorany999/Intelligent-Tagging-and-Recommendations-for-StackOverflow)
 
 ## Introduction
 This project aims to develop an intelligent tagging and recommendation system for StackOverflow posts using NLP techniques to predict tags and recommend similar posts.
