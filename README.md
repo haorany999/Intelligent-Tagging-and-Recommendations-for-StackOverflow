@@ -62,17 +62,9 @@ The dataset includes three files: Questions.csv, Answers.csv, and Tags.csv from 
 - **results_topic_modeling.ipynb**: LDA topic modeling.
 
 ## License
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=plastic)
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=social)
 
 
 
