@@ -60,3 +60,7 @@ The dataset includes three files: Questions.csv, Answers.csv, and Tags.csv from 
 - **results_cosine_sim.ipynb**: Cosine similarity search.
 - **results_tag_prediction.ipynb**: Tag prediction models.
 - **results_topic_modeling.ipynb**: LDA topic modeling.
+- ## License
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
